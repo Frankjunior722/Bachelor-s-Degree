@@ -15,7 +15,7 @@
 
 ## 🔬 Research Publications
 
-### Optimizing Agricultural Drying Technologies: A Systematic Review of Charcoal, Gas, and Hybrid Kilns for Sustainable Food Preservation
+#### Optimizing Agricultural Drying Technologies: A Systematic Review of Charcoal, Gas, and Hybrid Kilns for Sustainable Food Preservation
 * **Journal:** Journal of Sustainable Engineering & Renewable Energy (JSERE), Vol 1, Issue 1 (2025)
 * **Focus:** This systematic review evaluates the efficiency, economic viability, and thermal performance of various drying technologies to address post-harvest losses in agricultural systems.
 * **ResearchGate:** [View Publication](https://www.researchgate.net/publication/393163428_Optimizing_Agricultural_Drying_Technologies_A_Systematic_Review_of_Charcoal_Gas_and_Hybrid_Kilns_for_Sustainable_Food_Preservation)
